@@ -1,0 +1,619 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "name": "Mahir",
+      "email": "mahir@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "3",
+      "name": "Salman",
+      "email": "salman@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "name": "Prajith",
+      "email": "prajith@gmail.com",
+      "password": "p123"
+    }
+  ],
+  "data_product": [
+    {
+      "id": "1",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "/images/product_1.png",
+      "new_price": 50,
+      "old_price": 80.5
+    },
+    {
+      "id": "2",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "/images/product_2.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "3",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "/images/product_3.png",
+      "new_price": 60,
+      "old_price": 100.5
+    },
+    {
+      "id": "4",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "/images/product_4.png",
+      "new_price": 100,
+      "old_price": 150
+    }
+  ],
+  "new_collections": [
+    {
+      "id": "12",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "images/product_12.png",
+      "new_price": 50,
+      "old_price": 80.5
+    },
+    {
+      "id": "35",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "image": "images/product_35.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "14",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "image": "images/product_14.png",
+      "new_price": 60,
+      "old_price": 100.5
+    },
+    {
+      "id": "8",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "images/product_8.png",
+      "new_price": 100,
+      "old_price": 150
+    },
+    {
+      "id": "15",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "image": "images/product_15.png",
+      "new_price": 50,
+      "old_price": 80.5
+    },
+    {
+      "id": "2",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "images/product_2.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "17",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "image": "images/product_17.png",
+      "new_price": 60,
+      "old_price": 100.5
+    },
+    {
+      "id": "28",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "image": "images/product_28.png",
+      "new_price": 100,
+      "old_price": 150
+    }
+  ],
+  "all_product": [
+    {
+      "id": "1",
+      "name": "VelvetTouch Black Faux Fur Blazer",
+      "category": "women",
+      "image": "/images/product_1.png",
+      "new_price": "80",
+      "old_price": 80.5
+    },
+    {
+      "id": "2",
+      "name": "BlushEase Square Neck Crop Top",
+      "category": "women",
+      "image": "/images/product_2.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "3",
+      "name": "SandTone Panelled Knit Crop",
+      "category": "women",
+      "image": "/images/product_3.png",
+      "new_price": 60,
+      "old_price": 100.5
+    },
+    {
+      "id": "4",
+      "name": "RustFlare Deep Neckline Tunic",
+      "category": "women",
+      "image": "/images/product_4.png",
+      "new_price": 100,
+      "old_price": 150
+    },
+    {
+      "id": "5",
+      "name": "PlumKnit Mesh Shoulder Top",
+      "category": "women",
+      "image": "/images/product_5.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "6",
+      "name": "TerraStyle Fall Shoulder Sweater",
+      "category": "women",
+      "image": "/images/product_6.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "7",
+      "name": "WinterBreeze Turtle Crop Knit",
+      "category": "women",
+      "image": "/images/product_7.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "8",
+      "name": "MonochromeFlair Floral V-neck Top",
+      "category": "women",
+      "image": "/images/product_8.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "9",
+      "name": "RoseDrape Wrap Style Blouse",
+      "category": "women",
+      "image": "/images/product_9.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "10",
+      "name": "MaroonHug Hoodie Cropped Fleece",
+      "category": "women",
+      "image": "/images/product_10.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "11",
+      "name": "CurveCharm Ribbed Crop Top",
+      "category": "women",
+      "image": "/images/product_11.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "12",
+      "name": "Midnight Muse Slim Fit Knit",
+      "category": "women",
+      "image": "/images/product_12.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "13",
+      "name": "Alpine Green Utility Jacket",
+      "category": "men",
+      "image": "/images/product_13.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "14",
+      "name": "SportZip Dual-Tone Track Jacket",
+      "category": "men",
+      "image": "/images/product_14.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "15",
+      "name": "Urban Night Camo Windbreaker",
+      "category": "men",
+      "image": "/images/product_15.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "16",
+      "name": "StreetActive Colorblock Bomber",
+      "category": "men",
+      "image": "/images/product_16.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "17",
+      "name": "Indigo Classic Denim Jacket",
+      "category": "men",
+      "image": "/images/product_17.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "18",
+      "name": "SkyLite Performance Hoodie",
+      "category": "men",
+      "image": "/images/product_18.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "19",
+      "name": "SnowWhite Zip-Up Jogger Jacket",
+      "category": "men",
+      "image": "/images/product_19.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "20",
+      "name": "Midnight Blue Luxe Cardigan",
+      "category": "men",
+      "image": "/images/product_20.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "21",
+      "name": "RetroRush Contrast Windcheater",
+      "category": "men",
+      "image": "/images/product_21.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "22",
+      "name": "GlacierPro Puffy Warm Coat",
+      "category": "men",
+      "image": "/images/product_22.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "23",
+      "name": "TealSpace Everyday Jacket",
+      "category": "men",
+      "image": "/images/product_23.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "24",
+      "name": "LeatherEdge Biker Moto Jacket",
+      "category": "men",
+      "image": "/images/product_24.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "25",
+      "name": "CitrusPop Graphic Hoodie",
+      "category": "kid",
+      "image": "/images/product_25.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "26",
+      "name": "DinoRun Graphic Hoodie",
+      "category": "kid",
+      "image": "/images/product_26.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "27",
+      "name": "NavyGold Colorblock Hoodie",
+      "category": "kid",
+      "image": "/images/product_27.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "28",
+      "name": "SageSoft Everyday Crew Sweatshirt",
+      "category": "kid",
+      "image": "/images/product_28.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "29",
+      "name": "Classic Stripe Zip-Up Sweater",
+      "category": "kid",
+      "image": "/images/product_29.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "30",
+      "name": "ForestQuilt Windbreaker Jacket",
+      "category": "kid",
+      "image": "/images/product_30.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "31",
+      "name": "LightDenim Junior Bomber",
+      "category": "kid",
+      "image": "/images/product_31.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "32",
+      "name": "SkateRush Oversized Hoodie",
+      "category": "kid",
+      "image": "/images/product_32.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "33",
+      "name": "NavyWave Full Zip Sweatshirt",
+      "category": "kid",
+      "image": "/images/product_33.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "34",
+      "name": "ArcticShield Zip-Up Coat",
+      "category": "kid",
+      "image": "/images/product_34.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "35",
+      "name": "BlackOrange Zip-Up Coat",
+      "category": "kid",
+      "image": "/images/product_35.png",
+      "new_price": 85,
+      "old_price": 120.5
+    },
+    {
+      "id": "36",
+      "name": "Monochrome Snap Hoodie Set",
+      "category": "kid",
+      "image": "/images/product_36.png",
+      "new_price": "100",
+      "old_price": 120.5
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Anjali Sharma",
+      "rating": 5,
+      "comment": "Amazing quality! Exactly like shown. Definitely worth it.",
+      "date": "July 4, 2025",
+      "id": "1"
+    },
+    {
+      "name": "Rohit Verma",
+      "rating": 4,
+      "comment": "Great product, fits well. Just took a day extra to deliver.",
+      "date": "July 2, 2025",
+      "id": "2"
+    },
+    {
+      "name": "Priya Kapoor",
+      "rating": 5,
+      "comment": "Loved it! Already got compliments from friends 😍",
+      "date": "June 29, 2025",
+      "id": "3"
+    },
+    {
+      "name": "Aarav Mehta",
+      "rating": 5,
+      "comment": "Absolutely loved the product! Quality is top-notch and delivery was super fast.",
+      "date": "2025-07-08",
+      "id": "4"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "1",
+      "question": "What is your return policy?",
+      "answer": "We offer a 7-day hassle-free return on all unused items..."
+    },
+    {
+      "id": "2",
+      "question": "How long does shipping take?",
+      "answer": "Orders are usually dispatched within 1-2 business days..."
+    },
+    {
+      "id": "3",
+      "question": "Do you offer Cash on Delivery?",
+      "answer": "Yes! We support Cash on Delivery for most pin codes..."
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": "2",
+      "email": "mahir@gmail.com",
+      "date": "2025-07-10",
+      "items": [
+        {
+          "id": "16",
+          "name": "StreetActive Colorblock Bomber",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        },
+        {
+          "id": "16",
+          "name": "StreetActive Colorblock Bomber",
+          "size": "XXL",
+          "qty": 1,
+          "price": 85
+        }
+      ],
+      "total": "172.00"
+    },
+    {
+      "id": "2",
+      "userId": "4",
+      "email": "prajith@gmail.com",
+      "name": "Prajith",
+      "date": "2025-07-11",
+      "address": "G House",
+      "city": "Manjeri",
+      "pincode": "676122",
+      "items": [
+        {
+          "id": "14",
+          "name": "SportZip Dual-Tone Track Jacket",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        }
+      ],
+      "total": "87.00"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "email": "salman@gmail.com",
+      "name": "Salman",
+      "date": "2025-07-11",
+      "address": "K P House",
+      "city": "Pallippuram",
+      "pincode": "679224",
+      "items": [
+        {
+          "id": "28",
+          "name": "SageSoft Everyday Crew Sweatshirt",
+          "size": "M",
+          "qty": 1,
+          "price": 85
+        }
+      ],
+      "total": "87.00"
+    },
+    {
+      "id": "4",
+      "userId": "2",
+      "email": "mahir@gmail.com",
+      "name": "Mahir",
+      "date": "2025-07-12",
+      "address": "ET House",
+      "city": "Manjeri",
+      "pincode": "676122",
+      "items": [
+        {
+          "id": "19",
+          "name": "SnowWhite Zip-Up Jogger Jacket",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        }
+      ],
+      "total": "87.00"
+    },
+    {
+      "id": "5",
+      "userId": "2",
+      "email": "mahir@gmail.com",
+      "name": "Mahir",
+      "date": "2025-07-12",
+      "address": "ET House",
+      "city": "Manjeri",
+      "pincode": "676122",
+      "items": [
+        {
+          "id": "2",
+          "name": "BlushEase Square Neck Crop Top",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        }
+      ],
+      "total": "87.00"
+    },
+    {
+      "id": "6",
+      "userId": "2",
+      "email": "mahir@gmail.com",
+      "name": "Mahir",
+      "date": "2025-07-14",
+      "address": "ET House",
+      "city": "Manjeri",
+      "pincode": "676122",
+      "items": [
+        {
+          "id": "21",
+          "name": "RetroRush Contrast Windcheater",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        },
+        {
+          "id": "12",
+          "name": "Midnight Muse Slim Fit Knit",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        },
+        {
+          "id": "35",
+          "name": "BlackOrange Zip-Up Coat",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        },
+        {
+          "id": "35",
+          "name": "BlackOrange Zip-Up Coat",
+          "size": "L",
+          "qty": 4,
+          "price": 85
+        }
+      ],
+      "total": "597.00"
+    },
+    {
+      "id": "7",
+      "userId": "4",
+      "email": "prajith@gmail.com",
+      "name": "Prajith",
+      "date": "2025-07-14",
+      "address": "G House",
+      "city": "Manjeri",
+      "pincode": "676122",
+      "items": [
+        {
+          "id": "14",
+          "name": "SportZip Dual-Tone Track Jacket",
+          "size": "S",
+          "qty": 1,
+          "price": 85
+        }
+      ],
+      "total": "87.00"
+    }
+  ]
+}
